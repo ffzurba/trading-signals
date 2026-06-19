@@ -111,3 +111,4 @@ DateTime,BotName,AccountID,Username,Symbol,Direction,Positions,PnL,Reason
 2026.06.19 12:46,ferasNew2_v1.97,3003903,FerasDesktop,XAUUSD,BUY,1,0.63,🔄 انعكاس GitHub (رابحة +$0.63) → إغلاق وفتح جديدة
 2026.06.19 12:48,ferasNew2_v1.97,3003903,FerasDesktop,XAUUSD,SELL,2,2.13,✅ Basket TP | origPnL=+$2.13
 2026.06.19 12:49,ferasNew2_v1.97,3003903,FerasDesktop,XAUUSD,SELL,1,2.20,✅ Basket TP | origPnL=+$2.20
+2026.06.19 12:52,ferasNew2_v1.97,3003884,Feras A-Zurba,XAUUSD,SELL,1,0.05,🔄✅ انعكاس | رجع الربح للبلس +$0.05
