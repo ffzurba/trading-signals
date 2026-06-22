@@ -577,3 +577,4 @@ DateTime,BotName,AccountID,Username,Symbol,Direction,Positions,PnL,Reason
 2026.06.22 18:55,ferasNew2_v2.02,10011403230,Mohammad sehwil,XAUUSD,SELL,5,-51.03,🛑 وقف الخسارة الكلية | $-51.03
 2026.06.22 19:01,ferasNew2_v2.02,10011403230,Mohammad sehwil,XAUUSD,SELL,2,-3.42,✅ Basket TP | origPnL=+$2.13
 2026.06.22 19:02,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,4,-59.94,🛑 وقف الخسارة الكلية | $-59.94
+2026.06.22 19:03,ferasNew2_v2.02,5051561424,Ferastest,XAUUSD,SELL,4,-14.37,✅ Basket TP | origPnL=+$2.63
