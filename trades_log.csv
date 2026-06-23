@@ -791,3 +791,4 @@ DateTime,BotName,AccountID,Username,Symbol,Direction,Positions,PnL,Reason
 2026.06.23 07:19,ferasNew2_v2.02,5052098206,Sehwil new,XAUUSD,BUY,3,1.38,🔄✅ انعكاس | +$1.38
 2026.06.23 07:27,ferasNew2_v2.02,5052098206,Sehwil new,XAUUSD,SELL,1,2.26,✅ Basket TP | origPnL=+$2.26
 2026.06.23 07:30,ferasNew2_v2.02,5051561424,Ferastest,XAUUSD,SELL,2,2.34,✅ Basket TP | origPnL=+$2.34
+2026.06.23 07:30,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,2,2.07,✅ Basket TP | origPnL=+$2.07
