@@ -1136,3 +1136,4 @@ DateTime,BotName,AccountID,Username,Symbol,Direction,Positions,PnL,Reason
 2026.06.23 23:57,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,BUY,1,-1.91,🕛 إغلاق إجباري 23:57 📉 PnL: $-1.91 💵 الرصيد: $7512.49
 2026.06.24 01:36,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,BUY,5,-92.31,✅ Basket TP | origPnL=+$3.69
 2026.06.24 01:38,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,1,2.01,✅ Basket TP | origPnL=+$2.01
+2026.06.24 01:39,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,1,2.00,✅ Basket TP | origPnL=+$2.00
