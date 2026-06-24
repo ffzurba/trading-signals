@@ -1462,3 +1462,4 @@ DateTime,BotName,AccountID,Username,Symbol,Direction,Positions,PnL,Reason
 2026.06.24 17:19,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,2,2.02,✅ Basket TP | origPnL=+$2.02
 2026.06.24 17:20,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,1,2.04,✅ Basket TP | origPnL=+$2.04
 2026.06.24 17:23,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,4,4.21,✅ Basket TP | origPnL=+$4.21
+2026.06.24 17:25,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,2,2.00,✅ Basket TP | origPnL=+$2.00
