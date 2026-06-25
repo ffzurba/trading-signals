@@ -1555,3 +1555,4 @@ DateTime,BotName,AccountID,Username,Symbol,Direction,Positions,PnL,Reason
 2026.06.25 02:59,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,2,3.08,✅ Basket TP | origPnL=+$3.08
 2026.06.25 03:02,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,BUY,2,2.95,✅ Basket TP | origPnL=+$2.95
 2026.06.25 03:15,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,BUY,5,-110.59,🛑 وقف الخسارة الكلية | $-110.59
+2026.06.25 03:16,ferasNew2_v2.02,3003903,FerasDesktop,XAUUSD,SELL,2,2.05,✅ Basket TP | origPnL=+$2.05
